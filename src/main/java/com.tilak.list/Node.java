@@ -7,6 +7,7 @@ public class Node {
     Node (int data){
         this.data = data;
         next = null;
+        System.out.println();
     }
 
 
